@@ -9,5 +9,6 @@ namespace UotASamosFood_Web.Models
 
         [Display(Name = "Day Time")]
         public string daytime_sel { get; set; }
+
     }
 }
